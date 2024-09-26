@@ -13,3 +13,7 @@ Listas
 
 ![image](https://github.com/user-attachments/assets/eafa3e74-432e-4453-af23-27de7ff9cd96)
 
+
+Funciones
+
+
