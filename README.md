@@ -6,3 +6,10 @@ Actividades varias en clases donde se vieron varios operadores o palabras reserv
 
 ![image](https://github.com/user-attachments/assets/e545df29-4d95-4743-b2cc-1d2bca5ee241)
 
+
+Listas
+
+![image](https://github.com/user-attachments/assets/94f5a9af-cb21-40b6-985c-7786153943e9)
+
+![image](https://github.com/user-attachments/assets/eafa3e74-432e-4453-af23-27de7ff9cd96)
+
